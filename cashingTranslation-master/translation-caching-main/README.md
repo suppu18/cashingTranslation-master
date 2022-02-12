@@ -90,5 +90,3 @@ Test cases where written to provide whether the the request return statusCode as
   ```
 
 
-- Version: 1.0.0
-- Lisence: MIT
